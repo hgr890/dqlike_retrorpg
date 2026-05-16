@@ -5,18 +5,6 @@
 
 ./target/release/retrorpg.exe
 
-### ビルドについて
-
-```bash
-# プロジェクトのディレクトリへ移動
-cd /retrorpg
-
-# リリースビルド
-cargo build --release
-
-# 生成された exe を実行
-./target/release/retrorpg.exe
-```
 ---
 ## 技術スタック
 
