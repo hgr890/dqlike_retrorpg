@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu\home\tec8\Projects\claudecode\retrorpg\target\release\deps\fdeflate-7b7c1695e1ca2628.d: C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\lib.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\compress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\decompress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\huffman.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\tables.rs
+
+\\wsl.localhost\Ubuntu\home\tec8\Projects\claudecode\retrorpg\target\release\deps\libfdeflate-7b7c1695e1ca2628.rlib: C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\lib.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\compress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\decompress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\huffman.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\tables.rs
+
+\\wsl.localhost\Ubuntu\home\tec8\Projects\claudecode\retrorpg\target\release\deps\libfdeflate-7b7c1695e1ca2628.rmeta: C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\lib.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\compress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\decompress.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\huffman.rs C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\tables.rs
+
+C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\lib.rs:
+C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\compress.rs:
+C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\decompress.rs:
+C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\huffman.rs:
+C:\Users\YtecM8\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fdeflate-0.3.7\src\tables.rs:

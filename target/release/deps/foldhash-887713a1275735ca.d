@@ -1,0 +1,10 @@
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/foldhash-887713a1275735ca.d: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/fast.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/quality.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/seed.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libfoldhash-887713a1275735ca.rlib: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/fast.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/quality.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/seed.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libfoldhash-887713a1275735ca.rmeta: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/fast.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/quality.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/seed.rs
+
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/lib.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/fast.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/quality.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.1.5/src/seed.rs:

@@ -1,0 +1,8 @@
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/byteorder-7f7e320a04ee2d85.d: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/io.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libbyteorder-7f7e320a04ee2d85.rlib: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/io.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libbyteorder-7f7e320a04ee2d85.rmeta: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/io.rs
+
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/lib.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/byteorder-1.5.0/src/io.rs:

@@ -1,0 +1,17 @@
+[package]
+name = "retrorpg"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "retrorpg"
+path = "src/main.rs"
+
+[dependencies]
+macroquad = "0.4"
+
+[profile.release]
+opt-level = 3
+
+[build]
+incremental = false

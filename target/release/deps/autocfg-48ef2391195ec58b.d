@@ -1,0 +1,10 @@
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/autocfg-48ef2391195ec58b.d: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libautocfg-48ef2391195ec58b.rlib: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/tec8/Projects/claudecode/retrorpg/target/release/deps/libautocfg-48ef2391195ec58b.rmeta: /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs:
+/home/tec8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs:
